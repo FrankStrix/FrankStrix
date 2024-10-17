@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my favourite Linux distribution is Arch
+- ⚡ Fun fact: my favourite Linux distribution is NixOs
