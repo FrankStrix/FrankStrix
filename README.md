@@ -20,8 +20,6 @@ I love building and breaking things in code. Whether it's a side project, open-s
 
 ### 🌟 Fun Projects I'm Proud Of:
 - **🏀 Basketball Tracker**: (Coming soon!) Analyze game stats and visualize performance trends.
-- **🎵 Hip-Hop Playlist Generator**: (Coming soon!) A tool to curate playlists based on vibe and lyrics.
-- **💡 Nix Config Wizard**: (Coming soon!) Simplify NixOS configurations for beginners.
 - **❄️ My Persional NixOS Configuration**: You can try my really basic machine configuration (I use flakes ✨).
 - **😎 My Super Cool Portfoolio**: I made a really cool website with the languages i know, [check it out!](https://webuser.itis.pr.it/~sFRANCAV1/)
 
