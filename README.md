@@ -8,7 +8,7 @@ On or off the court, basketball is my game. Whether it's perfecting a fadeaway o
 ## 🎵 Hip-Hop Beats  
 From classic boom-bap to modern trap vibes, hip-hop fuels my creative flow. Music isn't just a hobby; it's a rhythm that keeps me coding and hooping.
 
-## 💻 Coding & NixOS Enthusiast  
+## 💻 Coding & GNU/Linux Enthusiast  
 I love building and breaking things in code. Whether it's a side project, open-source contribution, or exploring new tools, you'll catch me writing scripts and spinning up configurations in **NixOS** – because declarative and reproducible systems are 🔥. 
 
 ### 🛠 Tech Stack
